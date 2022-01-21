@@ -1,0 +1,43 @@
+{
+    "name": "Yala I #09",
+    "symbol": "MVP",
+    "description": "Large continents. There are sprawling brown bogs. The dark orange plants grow in elaborate mazes to avoid touching one another.Small feathered burrowers make giant nests. Their eyes are clustered at the end of long tentacles.Matriarch Eleven was exiled here.",
+    "seller_fee_basis_points": 500,
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "80%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "6"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "3"
+        },
+        {
+            "trait_type": "Science",
+            "value": "3"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}

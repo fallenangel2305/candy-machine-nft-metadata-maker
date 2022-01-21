@@ -1,26 +1,25 @@
-
 {
-    "name": "Frabas IV #01",
+    "name": "Drileuth IV #08",
     "symbol": "MVP",
-    "description": "A planet-wide, deep ocean. Swarms of tiny tentacular animals hide in the ocean. They hold animals of certain other species hostage in exchange for food. The air has an inaccountably foul smell.",
+    "description": "Brown mud and small rivulets. Towering columns of hexagonal black stone. Clusters of orange fronds.Mobile stacks of leathery triangles slowly move around. When threatened, they release a noxious fluid.There are deposits of strange matter.",
     "seller_fee_basis_points": 500,
-    "image": "0.png",
+    "image": "7.png",
     "attributes": [
         {
             "trait_type": "Habitability",
-            "value": "40%"
+            "value": "60%"
         },
         {
             "trait_type": "Size",
-            "value": "3"
+            "value": "6"
         },
         {
             "trait_type": "Industry",
-            "value": "2"
+            "value": "4"
         },
         {
             "trait_type": "Science",
-            "value": "3"
+            "value": "5"
         }
     ],
     "properties": {
@@ -32,7 +31,7 @@
         ],
         "files": [
             {
-                "uri": "0.png",
+                "uri": "7.png",
                 "type": "image/png"
             }
         ]

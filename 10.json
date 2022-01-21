@@ -1,0 +1,43 @@
+{
+    "name": "Quimacor IV #011",
+    "symbol": "MVP",
+    "description": "Dense forests of yellow segmented plants cover Quimacor IV. Deep canyons cut into the planet's crust.Gangly spotted pentapods move between the stacks, feeding tentacles seeking nourishment. The local plants are actually the sessile phase of the animals' lifecycle.There are rumours of secret expeditions to this planet.",
+    "seller_fee_basis_points": 500,
+    "image": "10.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "80%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "6"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "6"
+        },
+        {
+            "trait_type": "Science",
+            "value": "3"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "10.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}

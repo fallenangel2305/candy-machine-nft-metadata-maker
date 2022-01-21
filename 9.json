@@ -1,0 +1,43 @@
+{
+    "name": "Witopip IV #010",
+    "symbol": "MVP",
+    "description": "Large continents. Spires of sharp stone interrupt the otherwise flat terrain. Deep light green grass covers everything.Large colonies of leathery pink creatures inhabit the shallows. Their psionic abilities cause constant nightmares.The SS Alpine vanished while exploring this planet.",
+    "seller_fee_basis_points": 500,
+    "image": "9.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "40%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "7"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "3"
+        },
+        {
+            "trait_type": "Science",
+            "value": "3"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "9.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}

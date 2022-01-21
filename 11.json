@@ -1,0 +1,43 @@
+{
+    "name": "Ulegig IV #012",
+    "symbol": "MVP",
+    "description": "A supercontinent and some small, shallow seas mostly covered with ice. A network of tunnels extends under much of the surface. There are groups of tall, crimson stalks everywhere.Mobile stacks of feathered hexagons slowly move around. The local life is enmeshed in a complex symbiotic network.There are rumours of a monastery of heretical monks.",
+    "seller_fee_basis_points": 500,
+    "image": "11.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "80%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "9"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "4"
+        },
+        {
+            "trait_type": "Science",
+            "value": "5"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "11.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}

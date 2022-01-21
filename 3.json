@@ -1,0 +1,43 @@
+{
+    "name": "Xilup III #04",
+    "symbol": "MVP",
+    "description": "Dense jungles of dark green sponges cover Xilup III. There are extensive fossilized forests.Vicious brain parasites lurk in the jungles. They move in a sudden burst at mid-day and then fall silent.There are incredibly violent storms.",
+    "seller_fee_basis_points": 500,
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "40%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "7"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "3"
+        },
+        {
+            "trait_type": "Science",
+            "value": "4"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}

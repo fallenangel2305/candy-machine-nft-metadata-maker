@@ -61,3 +61,5 @@ for i in range(len(fnmatch.filter(os.listdir("/Users/mac/Desktop/alan/blockchain
 
     with open(str(i)+'.json', 'w') as outfile:
         outfile.write(nft_metadata)
+
+    os.remove(str(i)+".txt")

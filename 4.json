@@ -1,0 +1,43 @@
+{
+    "name": "Torro I #05",
+    "symbol": "MVP",
+    "description": "A planet-wide ocean mostly free of ice, except at the poles.  Large yellow creatures use sails to drift across the ocean surface. They are able to emit laser-like blasts of light to hurt and disorient their enemies.The planet is perfectly round, with no equatorial bulge.",
+    "seller_fee_basis_points": 500,
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "40%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "3"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "2"
+        },
+        {
+            "trait_type": "Science",
+            "value": "6"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}
