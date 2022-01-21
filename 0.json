@@ -1,0 +1,43 @@
+{
+    "name": "Frabas IV #01",
+    "symbol": "MVP",
+    "description": "A planet-wide, deep ocean.  Swarms of tiny tentacular animals hide in the ocean. They hold animals of certain other species hostage in exchange for food.The air has an inaccountably foul smell.",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "40%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "3"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "2"
+        },
+        {
+            "trait_type": "Science",
+            "value": "3"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Epileuth V #02",
+    "symbol": "MVP",
+    "description": "There are scattered forests of tall trees. Deep canyons cut into the planet's crust.Small pulsating burrowers make giant nests. When threatened, they use psionic powers to stun their potential attackers.This planet has an evil reputation, but no one can say why.",
+    "seller_fee_basis_points": 500,
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Habitability",
+            "value": "60%"
+        },
+        {
+            "trait_type": "Size",
+            "value": "6"
+        },
+        {
+            "trait_type": "Industry",
+            "value": "6"
+        },
+        {
+            "trait_type": "Science",
+            "value": "5"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BJ5sBNC7QVRnnUrqqkUuipRAVWPS3HPJapafUyrc3Mxd",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "MVP Planets",
+        "family": "Planets"
+    }
+}

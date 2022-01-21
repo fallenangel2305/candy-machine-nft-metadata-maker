@@ -1,0 +1,14 @@
+Epileuth V
+
+There are scattered forests of tall trees. Deep canyons cut into the planet's crust.
+
+Small pulsating burrowers make giant nests. When threatened, they use psionic powers to stun their potential attackers.
+
+This planet has an evil reputation, but no one can say why.
+
+Habitability: 60%
+Size: 6
+Industry: 6
+Science: 5
+
+58c5b7e0
