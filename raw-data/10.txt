@@ -1,0 +1,14 @@
+Quimacor IV
+
+Dense forests of yellow segmented plants cover Quimacor IV. Deep canyons cut into the planet's crust.
+
+Gangly spotted pentapods move between the stacks, feeding tentacles seeking nourishment. The local plants are actually the sessile phase of the animals' lifecycle.
+
+There are rumours of secret expeditions to this planet.
+
+Habitability: 80%
+Size: 6
+Industry: 6
+Science: 3
+
+1bc5fbb3

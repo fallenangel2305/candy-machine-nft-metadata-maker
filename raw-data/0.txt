@@ -1,0 +1,14 @@
+Frabas IV
+
+A planet-wide, deep ocean.  
+
+Swarms of tiny tentacular animals hide in the ocean. They hold animals of certain other species hostage in exchange for food.
+
+The air has an inaccountably foul smell.
+
+Habitability: 40%
+Size: 3
+Industry: 2
+Science: 3
+
+3bae2a29

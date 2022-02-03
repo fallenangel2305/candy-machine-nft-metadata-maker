@@ -1,0 +1,14 @@
+Ulegig IV
+
+A supercontinent and some small, shallow seas mostly covered with ice. A network of tunnels extends under much of the surface. There are groups of tall, crimson stalks everywhere.
+
+Mobile stacks of feathered hexagons slowly move around. The local life is enmeshed in a complex symbiotic network.
+
+There are rumours of a monastery of heretical monks.
+
+Habitability: 80%
+Size: 9
+Industry: 4
+Science: 5
+
+2e73536b

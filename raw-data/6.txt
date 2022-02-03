@@ -1,0 +1,14 @@
+Torlm V
+
+A sandy desert lit by a dull red sun. There are extensive fossilized forests. Some local plants hover in mid-air, held aloft by gas bags.
+
+The animals of Torlm V avail themselves of poisonous darts used both for defense and hunting. They only live for a day.
+
+There are regular formations of plants that look like abandoned fields.
+
+Habitability: 10%
+Size: 7
+Industry: 3
+Science: 3
+
+ecf284c9

@@ -1,0 +1,14 @@
+Torro I
+
+A planet-wide ocean mostly free of ice, except at the poles.  
+
+Large yellow creatures use sails to drift across the ocean surface. They are able to emit laser-like blasts of light to hurt and disorient their enemies.
+
+The planet is perfectly round, with no equatorial bulge.
+
+Habitability: 40%
+Size: 3
+Industry: 2
+Science: 6
+
+6c43429c

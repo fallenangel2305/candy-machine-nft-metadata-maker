@@ -1,0 +1,14 @@
+Drileuth IV
+
+Brown mud and small rivulets. Towering columns of hexagonal black stone. Clusters of orange fronds.
+
+Mobile stacks of leathery triangles slowly move around. When threatened, they release a noxious fluid.
+
+There are deposits of strange matter.
+
+Habitability: 60%
+Size: 6
+Industry: 4
+Science: 5
+
+8e8a6231

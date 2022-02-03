@@ -1,0 +1,14 @@
+Xilup III
+
+Dense jungles of dark green sponges cover Xilup III. There are extensive fossilized forests.
+
+Vicious brain parasites lurk in the jungles. They move in a sudden burst at mid-day and then fall silent.
+
+There are incredibly violent storms.
+
+Habitability: 40%
+Size: 7
+Industry: 3
+Science: 4
+
+2f11ddc8

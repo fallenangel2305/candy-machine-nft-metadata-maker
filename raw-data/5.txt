@@ -1,0 +1,14 @@
+Yoraw IV
+
+Large continents. There are wide, dark green, rocky beaches. The surface is covered in leathery light green roots.
+
+Some creatures are shaped like wheels, using their legs to roll themselves along. The local life is enmeshed in a complex symbiotic network.
+
+There are deposits of a petroleum-like substance just under the surface.
+
+Habitability: 60%
+Size: 7
+Industry: 6
+Science: 5
+
+7f7cc37f
